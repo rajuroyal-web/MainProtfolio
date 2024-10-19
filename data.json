@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "title": "Efficient Election Results Prediction from Social Media",
+      "date": "March 2024",
+      "description": "Analyzed social media data to predict election results using various machine learning models. Developed a prediction system with high accuracy and efficiency. Presented the project in academic symposiums and received positive feedback."
+    },
+    {
+      "title": "Emotion Detection and Music Recommendation System",
+      "date": "May 2023",
+      "description": "Compared different machine learning models across various performance measures. Worked on different emotion datasets to create personalized music sets based on user emotions."
+    },
+    {
+      "title": "Currency Converter Android App",
+      "date": "April 2023",
+      "description": "Created a simple and efficient way to perform currency conversions. The app is compatible with Android smartphones and tablets."
+    },
+    {
+      "title": "Music Player Web Application",
+      "date": "March 2023",
+      "description": "Developed a minimalistic yet functional web application to play music tracks directly from the browser. Provides an easy way to organize and enjoy music collection online."
+    }
+  ],
+  "education": [
+    {
+      "name": "PRATHYUSHA ENGINEERING COLLEGE",
+      "degree": "BE in Computer Science",
+      "year": "2020 - 2024",
+      "grade": "CGPA: 8.3 / 10"
+    },
+    {
+      "name": "SRI CHAITANYA JUNIOR COLLEGE",
+      "degree": "BIEAP (Class XII)",
+      "year": "2018 - 2020",
+      "grade": "CGPA: 9.7 / 10"
+    },
+    {
+      "name": "KESAVA REDDY ENGLISH MEDIUM SCHOOL",
+      "degree": "SSC (Class X)",
+      "year": "2018",
+      "grade": "CGPA: 9.7 / 10"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+body {
+    font-family: 'Arial', sans-serif;
+    padding-top: 56px; /* Adjusted for fixed navbar */
+}
+
+.hero-section {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://hebbkx1anhila5yf.public.blob.vercel-storage.com/kodipunjula_yuvaraj-yUmGzSHjhIkwXtdHXBmVBVpgS4kTB4.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 150px 0;
+    position: relative;
+}
+
+.hero-section img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border: 4px solid #ffc107;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+}
+
+.social-icons a {
+    font-size: 24px;
+    transition: transform 0.3s ease;
+}
+
+.social-icons a:hover {
+    transform: scale(1.2);
+}
+
+.skill-bar {
+    margin-bottom: 20px;
+}
+
+.skill-bar .progress {
+    height: 10px;
+    border-radius: 5px;
+}
+
+.project-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    height: 100%;
+}
+
+.project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.education-card {
+    transition: transform 0.3s ease;
+    height: 100%;
+}
+
+.education-card:hover {
+    transform: scale(1.05);
+}
+
+.social-btn {
+    transition: all 0.3s ease;
+}
+
+.social-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(255, 255, 255, 0.1);
+}
+
+.social-btn i {
+    margin-right: 8px;
+}
+
+#social-media {
+    background: linear-gradient(45deg, #1a1a1a, #2c2c2c);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .hero-section {
+        padding: 100px 0;
+    }
+
+    .hero-section img {
+        width: 150px;
+        height: 150px;
+    }
+}
